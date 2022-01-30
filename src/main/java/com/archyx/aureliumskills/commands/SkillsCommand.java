@@ -46,7 +46,7 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-@CommandAlias("skills|sk|skill")
+@CommandAlias("skills|skill")
 public class SkillsCommand extends BaseCommand {
  
 	private final AureliumSkills plugin;
