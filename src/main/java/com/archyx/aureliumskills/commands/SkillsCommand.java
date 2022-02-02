@@ -127,7 +127,7 @@ public class SkillsCommand extends BaseCommand {
 	}
 
 	@Subcommand("top")
-	@CommandAlias("skilltop")
+	@CommandAlias("lifestealskilltop")
 	@CommandCompletion("@skillTop")
 	@CommandPermission("aureliumskills.top")
 	@Description("Shows the top players in a skill")
